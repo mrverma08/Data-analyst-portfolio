@@ -17,11 +17,11 @@ Tables used: orders, order_items, products, translated_product, sellers, custome
 ### Q1 — Revenue & Delivery by Category
 - Health_beauty generated 12.33Lakh in revenue, with average delivery of 12 days.
 - The slowest category was Office_furniture at 20 days average.
-- The fasted category was Art_and_craftmanship at 5 days average and generated 0.02Lakh in revenue
+- The fastest category was Art_and_craftmanship at 5 days average and generated 0.02Lakh in revenue
 
 ### Q2 — Top Sellers by State
 - SP had the highest-revenue top seller at 226987.93.
-- Insight about concentration, is SP accounts for 1769 of the total sellers
+- "São Paulo (SP) accounts for 1,769 of the total sellers, showing heavy geographic concentration"
 
 ### Q3 — Customer Retention
 - Repeat customer rate: 3%.
@@ -29,7 +29,7 @@ Tables used: orders, order_items, products, translated_product, sellers, custome
 - Highest retention states: AC at 5.26%, RO at 3.90%; lowest: AP at 1.52%.
 
 ## Data Quality Note
-1,559 out of 110197 delivered items lacked English category translations 
+1,559 out of 110,197 delivered items lacked English category translations 
 and were excluded from category-level analysis. All other categories are complete.
 
 ## Tools & Skills
